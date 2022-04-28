@@ -1,0 +1,49 @@
+.text {
+  width: 180px;
+  height: 60px;
+  margin: 0 auto;
+}
+.text1 {
+  width: 510px;
+  height: 80px;
+  text-align: center;
+  margin: 0 auto;
+}
+.number1 {
+  width: 45px;
+  height: 45px;
+  margin: 0 auto;
+}
+.number2 {
+  width: 80px;
+  height: 55px;
+  margin: -48px 0 0 149px;
+  color: gray;
+}
+.boxx1 {
+  width: 288px;
+  height: 222px;
+}
+.allft {
+  display: flex;
+  justify-content: center;
+  margin-top: 190px;
+}
+.ft1 {
+  margin-left: 195px;
+  color: gray;
+}
+.ft2 {
+  margin-left: 195px;
+  color: gray;
+}
+.ft3 {
+  margin-left: 195px;
+  color: gray;
+}
+
+.ft4 {
+  margin-left: 195px;
+  margin-right: 270px;
+  color: gray;
+}
